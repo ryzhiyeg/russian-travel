@@ -1,18 +1,18 @@
 .footer__website {
-margin: 0 18px 0 0;
+    margin: 0 18px 0 0;
 }
 
 .footer__website:last-of-type {
-margin: 0;
+    margin: 0;
 }
 
 @media (max-width: 425px) {
     .footer__website {
-      margin-bottom: 32px;
-      margin-right: 0;
+        margin-bottom: 32px;
+        margin-right: 0;
     }
     .footer__website:last-child {
-      margin-right: 0;
-      margin-bottom: 0;
+        margin-right: 0;
+        margin-bottom: 0;
     }
-  }
+}

@@ -1,18 +1,18 @@
 .intro {
-max-width: 984px;
-margin: 0 auto 92px;
+    max-width: 984px;
+    margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 768px) {
     .intro {
-      max-width: calc(100% - 48px);
-      margin-bottom: 88px;
-      }
-  }
+        max-width: calc(100% - 48px);
+        margin-bottom: 88px;
+    }
+}
 
-  @media screen and (max-width: 425px) {
+@media screen and (max-width: 425px) {
     .intro {
-      max-width: calc(100% - 32px);
-      margin-bottom: 64px;
-      }
-  }
+        max-width: calc(100% - 32px);
+        margin-bottom: 64px;
+    }
+}

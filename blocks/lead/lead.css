@@ -1,23 +1,23 @@
 .lead {
-max-width: 984px;
-margin: 0 auto 92px;
+    max-width: 984px;
+    margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
-      max-width: calc(100% - 96px);
-      }
-  }
+        max-width: calc(100% - 96px);
+    }
+}
 
-  @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .lead {
-      max-width: 100%;
-      margin-bottom: 88px;
-      }
-  }
+        max-width: 100%;
+        margin-bottom: 88px;
+    }
+}
 
-  @media screen and (max-width: 1024px) {
+@media screen and (max-width: 425px) {
     .lead {
         margin-bottom: 64px;
-      }
-  }
+    }
+}

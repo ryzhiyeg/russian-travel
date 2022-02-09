@@ -9,6 +9,13 @@
     z-index: 1;
 }
 
+@media screen and (max-width: 600px) {
+    .cover__content {
+        margin: 0 auto;
+        max-width: 100%;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .cover__content {
         width: 288px;
